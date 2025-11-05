@@ -1,0 +1,55 @@
+# Build directories
+build/
+bin/
+out/
+obj/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Static and shared libs
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+*.run
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+*.userprefs
+*.code-workspace
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Python virtual environments (if scripts exist)
+.venv/
+venv/
+__pycache__/
+*.pyc
